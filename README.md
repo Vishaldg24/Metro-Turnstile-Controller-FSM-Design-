@@ -3,3 +3,4 @@ I designed a Metro Turnstile controller using Verilog HDL based on a finite stat
 
 
 <img width="1552" height="382" alt="image" src="https://github.com/user-attachments/assets/f96990d3-707a-44ef-b373-5026d0e19153" />
+
